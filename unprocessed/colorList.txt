@@ -3396,8 +3396,7 @@ Light steel blue
 Light yellow
 Lilac
 Lilac Luster
-Lime (color wheel)
-Lime  green)
+Lime
 Lime green
 Lincoln green
 Linen
@@ -3837,14 +3836,9 @@ Vegas gold
 Venetian red
 Verdigris
 Vermilion
-Vermilion
 Veronica
-Violet
-Violet (color wheel)
-Violet (crayola)
 Violet (RYB)
 Violet
-Violet-blue
 Violet-blue
 Violet-red
 Viridian
@@ -3874,17 +3868,10 @@ Xanthic
 Xanthous
 Yale Blue
 Yellow
-Yellow
-Yellow
-Yellow
-Yellow
 Yellow (process)
 Yellow (RYB)
 Yellow-green
-Yellow-green
-Yellow-green (Color Wheel)
 Yellow Orange
-Yellow Orange (Color Wheel)
 Yellow Sunshine
 YInMn Blue
 Zaffre
@@ -5049,108 +5036,6 @@ Graphite
 Grass Hopper
 Gravel
 Gray
-Gray 2
-Gray 000
-Gray 001
-Gray 002
-Gray 003
-Gray 004
-Gray 005
-Gray 006
-Gray 007
-Gray 008
-Gray 009
-Gray 010
-Gray 011
-Gray 012
-Gray 013
-Gray 014
-Gray 015
-Gray 016
-Gray 017
-Gray 018
-Gray 019
-Gray 020
-Gray 021
-Gray 022
-Gray 023
-Gray 024
-Gray 025
-Gray 026
-Gray 027
-Gray 028
-Gray 029
-Gray 030
-Gray 031
-Gray 032
-Gray 033
-Gray 034
-Gray 035
-Gray 036
-Gray 037
-Gray 038
-Gray 039
-Gray 040
-Gray 041
-Gray 042
-Gray 043
-Gray 044
-Gray 045
-Gray 046
-Gray 047
-Gray 048
-Gray 049
-Gray 050
-Gray 051
-Gray 052
-Gray 053
-Gray 054
-Gray 055
-Gray 056
-Gray 057
-Gray 058
-Gray 059
-Gray 060
-Gray 061
-Gray 062
-Gray 063
-Gray 064
-Gray 065
-Gray 066
-Gray 067
-Gray 068
-Gray 069
-Gray 070
-Gray 071
-Gray 072
-Gray 073
-Gray 074
-Gray 075
-Gray 076
-Gray 077
-Gray 078
-Gray 079
-Gray 080
-Gray 081
-Gray 082
-Gray 083
-Gray 084
-Gray 085
-Gray 086
-Gray 087
-Gray 088
-Gray 089
-Gray 090
-Gray 091
-Gray 092
-Gray 093
-Gray 094
-Gray 095
-Gray 096
-Gray 097
-Gray 098
-Gray 099
-Gray 100
 Green
 Green Dark
 Green House
@@ -5165,10 +5050,6 @@ Green Vogue
 Green Waterloo
 Green White
 Green Yellow
-Green 1
-Green 2
-Green 3
-Green 4
 Greenish Umber
 Greenstone
 Grenadier
@@ -5229,10 +5110,6 @@ Hoki
 Holly
 Honey Flower
 Honeydew
-Honeydew 1
-Honeydew 2
-Honeydew 3
-Honeydew 4
 Honeysuckle
 Hopbush
 Horizon
@@ -5240,10 +5117,6 @@ Horses Neck
 Hot Chile
 Hot Curry
 Hot Pink
-Hot Pink 1
-Hot Pink 2
-Hot Pink 3
-Hot Pink 4
 Hot Purple
 Hot Toddy
 Humming Bird
@@ -5255,10 +5128,6 @@ Iceberg
 Illusion
 Indian Red
 Indian Red Dark
-Indian Red 1
-Indian Red 2
-Indian Red 3
-Indian Red 4
 Indian Tan
 Indigo
 Indochine
@@ -5271,10 +5140,6 @@ Ironstone
 Island Spice
 Ivory
 Ivory Black
-Ivory 1
-Ivory 2
-Ivory 3
-Ivory 4
 Jacaranda
 Jacarta
 Jacko Bean
@@ -5316,10 +5181,6 @@ Kenyan Copper
 Keppel
 Khaki
 Khaki Dark
-Khaki 1
-Khaki 2
-Khaki 3
-Khaki 4
 Kidnapper
 Kilamanjaro
 Killarney
@@ -5340,69 +5201,29 @@ Laurel
 Lavender
 Lavender Light
 Lavender Blush
-Lavender Blush 1
-Lavender Blush 2
-Lavender Blush 3
-Lavender Blush 4
 Lawn Green
 Leather
 Lemon
 Lemon Chiffon
-Lemon Chiffon 1
-Lemon Chiffon 2
-Lemon Chiffon 3
-Lemon Chiffon 4
 Lemon Ginger
 Lemon Grass
 Licorice
 Light Beige
 Light Blue
-Light Blue 1
-Light Blue 2
-Light Blue 3
-Light Blue 4
 Light Coral
 Light Cyan
-Light Cyan 1
-Light Cyan 2
-Light Cyan 3
-Light Cyan 4
 Light Goldenrod
 Light Goldenrod Yellow
-Light Goldenrod 1
-Light Goldenrod 2
-Light Goldenrod 3
-Light Goldenrod 4
 Light Gray
 Light Green
 Light Pink
-Light Pink 1
-Light Pink 2
-Light Pink 3
-Light Pink 4
 Light Salmon
-Light Salmon 1
-Light Salmon 2
-Light Salmon 3
-Light Salmon 4
 Light Sea Green
 Light Sky Blue
-Light Sky Blue 1
-Light Sky Blue 2
-Light Sky Blue 3
-Light Sky Blue 4
 Light Slate Blue
 Light Slate Gray
 Light Steel Blue
-Light Steel Blue 1
-Light Steel Blue 2
-Light Steel Blue 3
-Light Steel Blue 4
 Light Yellow
-Light Yellow 1
-Light Yellow 2
-Light Yellow 3
-Light Yellow 4
 Lightning Yellow
 Lilac Bush
 Lily
@@ -5445,10 +5266,7 @@ Madang
 Madder Lake Deep
 Madison
 Madras
-Magenta 1
-Magenta 2
-Magenta 3
-Magenta 4
+Magenta
 Magnolia
 Mahogany
 Mai Tai
@@ -5475,10 +5293,6 @@ Mariner
 Marlin
 Maroon
 Maroon Dark
-Maroon 1
-Maroon 2
-Maroon 3
-Maroon 4
 Mars Orange
 Mars Yellow
 Marshland
@@ -5495,15 +5309,7 @@ Mc Kenzie
 Medium Aquamarine
 Medium Blue
 Medium Orchid
-Medium Orchid 1
-Medium Orchid 2
-Medium Orchid 3
-Medium Orchid 4
 Medium Purple
-Medium Purple 1
-Medium Purple 2
-Medium Purple 3
-Medium Purple 4
 Medium Sea Green
 Medium Slate Blue
 Medium Spring Green
@@ -5548,10 +5354,6 @@ Mirage
 Mischka
 Mist Gray
 Misty Rose
-Misty Rose 1
-Misty Rose 2
-Misty Rose 3
-Misty Rose 4
 Mobster
 Moccaccino
 Moccasin
@@ -5591,10 +5393,6 @@ Naples Yellow Deep
 Narvik
 Natural
 Navajo White
-Navajo White 1
-Navajo White 2
-Navajo White 3
-Navajo White 4
 Navy
 Navy Blue
 Nebula
@@ -5631,10 +5429,6 @@ Old Copper
 Old Lace
 Olive
 Olive Drab
-Olive Drab 1
-Olive Drab 2
-Olive Drab 3
-Olive Drab 4
 Olive Green
 Olive Green Dark
 Olive Haze
@@ -5647,24 +5441,12 @@ Oracle
 Orange
 Orange Dark
 Orange Red
-Orange Red 1
-Orange Red 2
-Orange Red 3
-Orange Red 4
 Orange Roughy
 Orange White
-Orange 1
-Orange 2
-Orange 3
-Orange 4
 Orchid
 Orchid Dark
 Orchid Medium
 Orchid White
-Orchid 1
-Orchid 2
-Orchid 3
-Orchid 4
 Oregon
 Orient
 Oriental Pink
@@ -5683,10 +5465,6 @@ Paco
 Padua
 Pale Goldenrod
 Pale Green
-Pale Green 1
-Pale Green 2
-Pale Green 3
-Pale Green 4
 Pale Leaf
 Pale Oyster
 Pale Prim
@@ -5694,15 +5472,7 @@ Pale Rose
 Pale Sky
 Pale Slate
 Pale Turquoise
-Pale Turquoise 1
-Pale Turquoise 2
-Pale Turquoise 3
-Pale Turquoise 4
 Pale Violet Red
-Pale Violet Red 1
-Pale Violet Red 2
-Pale Violet Red 3
-Pale Violet Red 4
 Palm Green
 Palm Leaf
 Pampas
@@ -5724,10 +5494,6 @@ Pavlova
 Pea Soup
 Peach
 Peach Puff
-Peach Puff 1
-Peach Puff 2
-Peach Puff 3
-Peach Puff 4
 Peach Schnapps
 Peacock
 Peanut
@@ -5765,10 +5531,6 @@ Pink Lace
 Pink Lady
 Pink Light
 Pink Swan
-Pink 1
-Pink 2
-Pink 3
-Pink 4
 Piper
 Pipi
 Pippin
@@ -5781,10 +5543,6 @@ Plantation
 Planter
 Plum
 Plum Dark
-Plum 1
-Plum 2
-Plum 3
-Plum 4
 Pohutukawa
 Polar
 Polo Blue
@@ -5814,10 +5572,6 @@ Punch
 Punga
 Purple
 Purple Medium
-Purple 1
-Purple 2
-Purple 3
-Purple 4
 Putty
 Quarter Pearl Lusta
 Quarter Spanish White
@@ -5845,10 +5599,6 @@ Red Devil
 Red Oxide
 Red Robin
 Red Stage
-Red 1
-Red 2
-Red 3
-Red 4
 Redwood
 Reef
 Reef Gold
@@ -5890,17 +5640,9 @@ Rose Of Sharon
 Rose White
 Rosewood
 Rosy Brown
-Rosy Brown 1
-Rosy Brown 2
-Rosy Brown 3
-Rosy Brown 4
 Roti
 Rouge
 Royal Blue
-Royal Blue 1
-Royal Blue 2
-Royal Blue 3
-Royal Blue 4
 Royal Heath
 Rum
 Rum Swizzle
@@ -5916,10 +5658,6 @@ Sahara
 Sail
 Salem
 Salmon
-Salmon 1
-Salmon 2
-Salmon 3
-Salmon 4
 Salomie
 Salt Box
 Saltpan
@@ -5962,10 +5700,7 @@ Sea Green Bright
 Sea Green Dark
 Sea Green Light
 Sea Green Medium
-Sea Green 1
-Sea Green 2
-Sea Green 3
-Sea Green 4
+Sea Green
 Sea Mist
 Sea Nymph
 Sea Pink
@@ -5973,10 +5708,6 @@ Seagull
 Seance
 Seashell
 Seashell Medium
-Seashell 1
-Seashell 2
-Seashell 3
-Seashell 4
 Seaweed
 Selago
 Sepia
@@ -5999,10 +5730,6 @@ Shuttle Gray
 Siam
 Sidecar
 Sienna
-Sienna 1
-Sienna 2
-Sienna 3
-Sienna 4
 Silk
 Silver Chalice
 Silver Sand
@@ -6015,23 +5742,11 @@ Skeptic
 Sky Blue
 Sky Blue Deep
 Sky Blue Light
-Sky Blue 1
-Sky Blue 2
-Sky Blue 3
-Sky Blue 4
 Slate Blue
 Slate Blue Dark
 Slate Blue Light
 Slate Blue Medium
-Slate Blue 1
-Slate Blue 2
-Slate Blue 3
-Slate Blue 4
 Slate Gray
-Slate Gray 1
-Slate Gray 2
-Slate Gray 3
-Slate Gray 4
 Slate Gray Dark
 Slate Gray Light
 Slugger
@@ -6042,10 +5757,6 @@ Smoky
 Snow
 Snow Drift
 Snow Flurry
-Snow 1
-Snow 2
-Snow 3
-Snow 4
 Snowy Mint
 Snuff
 Soapstone
@@ -6071,10 +5782,6 @@ Spray
 Spring Green
 Spring Green Dark
 Spring Green Light
-Spring Green 1
-Spring Green 2
-Spring Green 3
-Spring Green 4
 Spring Rain
 Spring Sun
 Spring Wood
@@ -6088,10 +5795,6 @@ Stark White
 Starship
 Steel Blue
 Steel Blue Light
-Steel Blue 1
-Steel Blue 2
-Steel Blue 3
-Steel Blue 4
 Steel Gray
 Stiletto
 Stinger
@@ -6137,10 +5840,6 @@ Tallow
 Tamarillo
 Tamarind
 Tan
-Tan 1
-Tan 2
-Tan 3
-Tan 4
 Tana
 Tangaroa
 Tangerine
@@ -6166,11 +5865,6 @@ Texas Rose
 Thatch
 Thatch Green
 Thistle
-Thistle 5
-Thistle 1
-Thistle 2
-Thistle 3
-Thistle 4
 Thunder
 Thunderbird
 Tia Maria
@@ -6188,10 +5882,6 @@ Toledo
 Tolopea
 Tom Thumb
 Tomato
-Tomato 1
-Tomato 2
-Tomato 3
-Tomato 4
 Tonys Pink
 Topaz
 Torea Bay
@@ -6221,10 +5911,6 @@ Turbo
 Turkish Rose
 Turmeric
 Turquoise
-Turquoise 1
-Turquoise 2
-Turquoise 3
-Turquoise 4
 Turquoise Blue
 Turquoise Dark
 Turquoise Medium
@@ -6267,10 +5953,6 @@ Violet Light
 Violet Red
 Violet Red Medium
 Violet Red Pale
-Violet Red 1
-Violet Red 2
-Violet Red 3
-Violet Red 4
 Viridian Green
 Viridian Light
 Vis Vis
@@ -6301,10 +5983,6 @@ Westar
 Western Red
 Wewak
 Wheat
-Wheat 1
-Wheat 2
-Wheat 3
-Wheat 4
 Wheatfield
 Whiskey
 Whiskey Sour
@@ -6344,10 +6022,6 @@ Yellow Light
 Yellow Metal
 Yellow Ochre
 Yellow Sea
-Yellow 1
-Yellow 2
-Yellow 3
-Yellow 4
 Your Pink
 Yukon Gold
 Yuma
@@ -6712,7 +6386,7 @@ Purple pizzazz
 Razzle dazzle rose
 Rose quartz
 Shocking pink
-Shocking pink (Crayola)
+Shocking pink
 Steel pink
 Web color violet
 African violet
@@ -6833,7 +6507,7 @@ Uranian blue
 Spanish blue
 Argentinian blue
 Berkeley blue
-Blue (Crayola)
+Blue
 Ruddy blue
 Celtic blue
 Polynesian blue

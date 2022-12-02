@@ -29,8 +29,11 @@ using std::regex_replace;
 #include <iterator>
 using std::back_inserter;
 
-void Conditioning ( string &input ) {
+#include <set>
+using std::set;
+
 // data conditioning steps
+void Conditioning ( string &input ) {
 
 	// trim trailing spaces
 	input.erase( find_if( input.rbegin(), input.rend(), bind1st( not_equal_to<char>(), ' ' ) ).base(), input.end() );
@@ -52,6 +55,7 @@ int main ( int argc, char const *argv[] ) {
 	vector<string> strings;
 	ifstream inputData( "unprocessed/colorList.txt" );
 
+	// parse input + process
 	do {
 		string temp;
 		getline( inputData, temp );
@@ -61,11 +65,24 @@ int main ( int argc, char const *argv[] ) {
 		}
 	} while ( inputData.peek() != EOF );
 
-	// sort( strings.begin(), strings.end() );
-
+	// duplicate removal
+	set<string> duplicatesRemoved;
 	for ( auto& s : strings ) {
+		duplicatesRemoved.insert( s );
+	}
+
+	// prep for output ( alphabetize )
+	sort( strings.begin(), strings.end() );
+
+	// debug output
+	for ( auto& s : duplicatesRemoved ) {
 		cout << s << newline;
 	}
+
+	// report
+	const size_t numInitial = strings.size();
+	const size_t numFinal = duplicatesRemoved.size();
+	cout << newline << "Processing started with " << numInitial << " entries and ended up with " << numFinal << " entries"<< newline;
 
 	return 0;
 }

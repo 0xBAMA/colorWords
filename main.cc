@@ -54,26 +54,18 @@ void Conditioning ( string &input ) {
 
 int main ( int argc, char const *argv[] ) {
 	vector<string> strings;
-	ifstream inputData( "unprocessed/colorList.txt" );
-	ofstream output( "unprocessed/sorted.txt" );
+	ifstream inputData( "unprocessed/sorted.txt" );
 
 	// parse input + process
 	do {
 		string temp;
 		getline( inputData, temp );
-		// Conditioning( temp );
+		Conditioning( temp );
 		if ( !temp.empty() ) {
 			strings.push_back( temp );
 		}
 	} while ( inputData.peek() != EOF );
 	inputData.close();
-
-	sort( strings.begin(), strings.end() );
-	for ( auto& s : strings ) {
-		output << s << newline;
-	}
-	output.close();
-
 
 	// duplicate removal
 	set<string> duplicatesRemoved;

@@ -5,6 +5,7 @@ using std::cin;
 
 #include <fstream>
 using std::ifstream;
+using std::ofstream;
 
 #include <string>
 using std::string;
@@ -54,30 +55,37 @@ void Conditioning ( string &input ) {
 int main ( int argc, char const *argv[] ) {
 	vector<string> strings;
 	ifstream inputData( "unprocessed/colorList.txt" );
+	ofstream output( "unprocessed/sorted.txt" );
 
 	// parse input + process
 	do {
 		string temp;
 		getline( inputData, temp );
-		Conditioning( temp );
+		// Conditioning( temp );
 		if ( !temp.empty() ) {
 			strings.push_back( temp );
 		}
 	} while ( inputData.peek() != EOF );
+	inputData.close();
+
+	sort( strings.begin(), strings.end() );
+	for ( auto& s : strings ) {
+		output << s << newline;
+	}
+	output.close();
+
 
 	// duplicate removal
 	set<string> duplicatesRemoved;
-	for ( auto& s : strings ) {
-		duplicatesRemoved.insert( s );
-	}
+	for ( auto& s : strings ) { duplicatesRemoved.insert( s ); }
+	strings.clear();
+	for ( auto& s : duplicatesRemoved ) { strings.push_back( s ); }
 
 	// prep for output ( alphabetize )
 	sort( strings.begin(), strings.end() );
 
 	// debug output
-	for ( auto& s : duplicatesRemoved ) {
-		cout << s << newline;
-	}
+	for ( auto& s : strings ) { cout << s << newline; }
 
 	// report
 	const size_t numInitial = strings.size();
